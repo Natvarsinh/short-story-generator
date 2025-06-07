@@ -53,7 +53,7 @@ def generate_short_story(story_text):
     prompt = f"""
         You are a Hindi children's storyteller and scriptwriter.
 
-        Your task is to summarize the given Hindi story into a **short version of no more than 140 words**, written in **pure plain Hindi**. This short version should be suitable for **YouTube Shorts** — designed to fit a video length of 50 seconds or less.
+        Your task is to summarize the given Hindi story into a **short version of no more than 120 words**, written in **pure plain Hindi**. This short version should be suitable for **YouTube Shorts** — designed to fit a video length of 40 seconds or less.
 
         **Rules:**
         - Do NOT include any title or heading.
